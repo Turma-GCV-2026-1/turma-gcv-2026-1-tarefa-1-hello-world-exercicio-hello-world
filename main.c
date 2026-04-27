@@ -2,7 +2,6 @@
 
 int main() {
     printf("Hello, World!\n");
-    printf("Aluno testando V2\n");
-    printf("Aluno testando V3\n");
+    printf("Nova Funcionalidade\n");
     return 0;
 }
