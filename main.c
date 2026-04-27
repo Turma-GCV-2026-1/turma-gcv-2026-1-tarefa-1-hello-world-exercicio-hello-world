@@ -2,6 +2,6 @@
 
 int main() {
     printf("Hello, World!\n");
-    printf("Aluno editando v2!\n");
+    printf("Aprendendo sobre branch!");
     return 0;
 }
